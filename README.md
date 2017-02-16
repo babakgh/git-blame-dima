@@ -1,6 +1,6 @@
 # git-blame-dima
 
-> "I love git-blame-someone-else!!" -[Linus Torvalds says](https://github.com/jayphelps/git-blame-someone-else/commit/e5cfe4bb2190a2ae406d5f0b8f49c32ac0f01cd7)*
+> "I love git-dima!!" -[Linus Torvalds says](https://github.com/babakgh/git-blame-dima/commit/e5cfe4bb2190a2ae406d5f0b8f49c32ac0f01cd7)*
 
 ## Install
 
